@@ -88,6 +88,7 @@ if message.tool_calls:
 else:
     print(message.content)
 
+
 ### OUTPUT:
 <img width="802" height="456" alt="image" src="https://github.com/user-attachments/assets/73fcf562-237c-4f8c-90fb-c554fd169ad2" />
 
